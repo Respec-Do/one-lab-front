@@ -58,13 +58,19 @@
 
 <h4>Front-End</h4>
 
-<img width="960" alt="슬라이드0003" src="https://github.com/Respec-Do/study_python/assets/105579519/65b8a008-effa-41c6-b1bb-cef0e5b957cb">
+<img width="960" alt="슬라이드0003" src="https://github.com/Respec-Do/django-server/assets/105579519/4d28c965-6ec8-4359-924d-3b6ba90dbd3a">
 
 
 <h2>퍼블리싱 작업</h2>
 
 - 마이페이지
 - 결제 내역 확인페이지
+
+<h2> 퍼블리싱 진행률</h2>
+
+<img width="960" alt="front 진행도" src="https://github.com/Respec-Do/django-server/assets/105579519/90e4771f-8931-4913-8ac4-e481474cd921">
+
+
 
 <h2>프로젝트에서 느낀 점</h2>
 
